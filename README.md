@@ -3,9 +3,7 @@ Penetration testing report on a simulated Metasploitable environment — Nmap, G
 # Penetration Testing Report – Simulated Mayo Industries Environment
 
 **Course:** IE3022 – Applied Information Assurance  
-**Assignment:** 02  
-**Student:** Sathursha Ravichandran  
-**Student ID:** IT23642300  
+**Student:** Sathursha Ravichandran   
 **Year 3, Semester 1**
 
 ## Overview
